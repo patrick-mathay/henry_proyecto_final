@@ -1,0 +1,5 @@
+Abajo se encuentra los enlaces para los documentos de ETL: 
+
+ETL_google: https://drive.google.com/drive/folders/1387uKLARD4PWJtSrdELNxsBNh_nOFTL-
+
+ETL_yelp: https://drive.google.com/drive/folders/1up3wuigfkM7BdchAHUUvdSF6l7RIhRq6
