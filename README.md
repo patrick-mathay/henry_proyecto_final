@@ -108,7 +108,6 @@ Comprender a tu Audiencia
 Explora el modelo
 
 ## Miembros del Equipo
-# Team Members
 
 <table align="center">
   <tr>
