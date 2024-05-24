@@ -132,6 +132,7 @@ Explora el modelo
     <td align="center">Data Visualization Analyst</td>
     <td align="center">Data Engineer</td>
   </tr>
+  
   <tr>
     <td align="center"><a href="https://www.linkedin.com/in/arceignacio/"><img src="/Images/lkd.png" alt="LinkedIn" width="40"/></a></td>
     <td align="center"><a href="https://www.linkedin.com/in/jscr/"><img src="/Images/lkd.png" alt="LinkedIn" width="40"/></a></td>
