@@ -30,7 +30,9 @@ El objetivo principal de este proyecto es simular una firma de consultoría empr
 
 **Alcance**
 
-[FLORIDA]
+<p align="center">
+  <img src="/Images/florida.png" alt="Logo" />
+</p>!
 
 ## Guía Paso a Paso
 
