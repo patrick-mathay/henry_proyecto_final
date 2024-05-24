@@ -1,4 +1,4 @@
-![DATAGUSTO](/Images/datagusto_logo.jpg.png)
+![DATAGUSTO](/Images/datagusto_logo.jpg)
 *** 
 # Proyecto de Análisis y Consultoría para Inversión Gastrónomica
 
