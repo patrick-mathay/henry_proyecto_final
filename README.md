@@ -1,4 +1,4 @@
-DATAGUSTO LOGO
+![DATAGUSTO](/Images/datagusto_logo.jpg.png)
 *** 
 # Proyecto de Análisis y Consultoría para Inversión Gastrónomica
 
@@ -69,7 +69,7 @@ Paso 4: Modelo de Recomendación
 
 
 ## PipeLine
-[Pipeline Gif](https://github.com/your-username/your-repo-name/blob/main/images/python-logo.png)
+![Pipeline Gif](https://github.com/your-username/your-repo-name/blob/main/images/python-logo.png)
 
 ## Cronología
 ![Gantt](/Images/Gantt.png)
