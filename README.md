@@ -44,18 +44,21 @@ Paso 4: Modelo de Recomendación
 
 ## KPI
 
-1. KPI
-..*Definición
-..*Objetivo
-3. KPI
-..*Definición
-..*Objetivo
-5. KPI
-..*Definición
-..*Objetivo
-7. KPI
-..*Definición
-..*Objetivo
+Expansión del negocio
+1. Crecimiento del 5% en la cantidad de locales
+..*Definición: Crecimiento anual de la cantidad de sucursales. Esto proporciona una métrica clara y cuantificable que refleja la expansión y vitalidad del negocio.
+..*Objetivo: +5%
+
+Incremento de la visibilidad y engagement del cliente
+2. KPI: Aumento del 5% en la Cantidad de Reseñas
+..*Definición: Incrementar la presencia en las plataformas de recomendación, evaluando la satisfacción y el engagement del cliente. Este KPI también ayuda a mejorar la visibilidad y la reputación online, y proporciona información valiosa para mejorar la calidad del servicio.
+..*Objetivo: +5%
+
+Expansión de la base de clientes 
+3. KPI: Aumento del 10% en la Cantidad de Clientes
+..*Definición: Este KPI mide el crecimiento anual en la cantidad de clientes, lo cual refleja la efectividad de las estrategias de marketing y la capacidad del negocio para atraer y retener nuevos clientes. Un aumento del 10% en la cantidad de clientes indica un crecimiento significativo en la base de clientes y mayores oportunidades de ingresos.
+..*Objetivo: +10%
+
 
 ## Tecnologías Seleccionadas
 
