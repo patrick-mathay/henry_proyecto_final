@@ -72,7 +72,7 @@ Paso 4: Modelo de Recomendación
 
 
 ## PipeLine
-![Pipeline Gif](Images\pipeline.jpg)
+![Pipeline Gif](/Images/pipeline.jpg)
 
 ## Cronología
 ![Gantt](/Images/Gantt.png)
