@@ -110,9 +110,18 @@ El propósito principal de este Dashboard es proporcionar información clave del
 ## Sistema de Recomendación
 El sistema de recomendación se basa en dos sistemas vinculados al usuario:
 
-Identifica a tu Competencia
+Identifica a tus usuarios
 
-Comprender a tu Audiencia
+Utiliza un modelo de aprendizaje automático 'recommendation_model' 
+•	Diseñado para proporcionar recomendaciones personalizadas en el sector gastronómico
+•	Utilizando datos históricos de clientes y establecimientos, el modelo predice las preferencias individuales de los usuarios y genera recomendaciones adaptadas a sus gustos y comportamientos pasados. 
+•	Esto mejora la experiencia del cliente, aumenta la fidelización, incrementa las ventas y optimiza los recursos del conglomerado gastronómico, mejorando su competitividad en el mercado.
+
+Identifica a tu competencia
+
+Este modelo de aprendizaje automático 'business_comp_model'
+•	Utiliza características como ubicación, calificación promedio y cantidad de reseñas para determinar la presencia de competidores en el sector gastronómico. 
+•	Ofreciendo un análisis competitivo, identificación de oportunidades y mejora de la eficiencia operativa para conglomerados gastronómicos, brindando una poderosa herramienta para comprender el entorno competitivo y tomar decisiones estratégicas informadas.
 
 Explora el modelo
 
