@@ -1,0 +1,24 @@
+div[data-testid="element-container"] div div p {
+    text-align: justify;
+}
+
+div[data-testid="stExpander"] details summary p{
+    font-size: 30px;
+    font-weight: bold;
+}
+
+div[data-testid="stVerticalBlock"] div div div div div h3 div span {
+    font-size: 20px;
+}
+
+div[data-testid="stVerticalBlock"] div div label div p {
+    font-size: 20px;
+}
+
+section[class='main st-emotion-cache-uf99v8 ea3mdgi8'] {
+    background-color: #1E1F2D;
+}
+
+header[data-testid='stHeader'] { 
+    background-color: #1E1F2D;
+}
