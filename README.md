@@ -53,14 +53,14 @@ Expansión del negocio
 Incremento de la visibilidad y engagement del cliente
 
 2. KPI: Aumento del 5% en la Cantidad de Reseñas
-- ..*Definición: Incrementar la presencia en las plataformas de recomendación, evaluando la satisfacción y el engagement del cliente. Este KPI también ayuda a mejorar la visibilidad y la reputación online, y proporciona información valiosa para mejorar la calidad del servicio.
-- ..*Objetivo: +5%
+  ..*Definición: Incrementar la presencia en las plataformas de recomendación, evaluando la satisfacción y el engagement del cliente. Este KPI también ayuda a mejorar la visibilidad y la reputación online, y proporciona información valiosa para mejorar la calidad del servicio.
+  ..*Objetivo: +5%
 
 Expansión de la base de clientes 
 
 3. KPI: Aumento del 10% en la Cantidad de Clientes
-- ..*Definición: Este KPI mide el crecimiento anual en la cantidad de clientes, lo cual refleja la efectividad de las estrategias de marketing y la capacidad del negocio para atraer y retener nuevos clientes. Un aumento del 10% en la cantidad de clientes indica un crecimiento significativo en la base de clientes y mayores oportunidades de ingresos.
-- ..*Objetivo: +10%
+  ..*Definición: Este KPI mide el crecimiento anual en la cantidad de clientes, lo cual refleja la efectividad de las estrategias de marketing y la capacidad del negocio para atraer y retener nuevos clientes. Un aumento del 10% en la cantidad de clientes indica un crecimiento significativo en la base de clientes y mayores oportunidades de ingresos.
+  ..*Objetivo: +10%
 
 
 ## Tecnologías Seleccionadas
@@ -110,18 +110,18 @@ El propósito principal de este Dashboard es proporcionar información clave del
 ## Sistema de Recomendación
 El sistema de recomendación se basa en dos sistemas vinculados al usuario:
 
-Identifica a tus usuarios
+*Identifica a tus usuarios*
 
 Utiliza un modelo de aprendizaje automático 'recommendation_model' 
-•	Diseñado para proporcionar recomendaciones personalizadas en el sector gastronómico
-•	Utilizando datos históricos de clientes y establecimientos, el modelo predice las preferencias individuales de los usuarios y genera recomendaciones adaptadas a sus gustos y comportamientos pasados. 
-•	Esto mejora la experiencia del cliente, aumenta la fidelización, incrementa las ventas y optimiza los recursos del conglomerado gastronómico, mejorando su competitividad en el mercado.
+Diseñado para proporcionar recomendaciones personalizadas en el sector gastronómico
+  ..* Utilizando datos históricos de clientes y establecimientos, el modelo predice las preferencias individuales de los usuarios y genera recomendaciones adaptadas a sus gustos y comportamientos pasados. 
+  ..* Esto mejora la experiencia del cliente, aumenta la fidelización, incrementa las ventas y optimiza los recursos del conglomerado gastronómico, mejorando su competitividad en el mercado.
 
-Identifica a tu competencia
+*Identifica a tu competencia*
 
 Este modelo de aprendizaje automático 'business_comp_model'
-•	Utiliza características como ubicación, calificación promedio y cantidad de reseñas para determinar la presencia de competidores en el sector gastronómico. 
-•	Ofreciendo un análisis competitivo, identificación de oportunidades y mejora de la eficiencia operativa para conglomerados gastronómicos, brindando una poderosa herramienta para comprender el entorno competitivo y tomar decisiones estratégicas informadas.
+  ..* Utiliza características como ubicación, calificación promedio y cantidad de reseñas para determinar la presencia de competidores en el sector gastronómico. 
+  ..* Ofreciendo un análisis competitivo, identificación de oportunidades y mejora de la eficiencia operativa para conglomerados gastronómicos, brindando una poderosa herramienta para comprender el entorno competitivo y tomar decisiones estratégicas informadas.
 
 Explora el modelo
 
