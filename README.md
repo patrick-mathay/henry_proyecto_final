@@ -56,7 +56,6 @@ Paso 4: Modelo de Recomendación
 
 ## Tecnologías Seleccionadas
 
-## Programming Languages and Libraries
 
 | [Python](https://www.python.org/doc/) | [Matplotlib](https://matplotlib.org/stable/contents.html) | [NLTK](https://www.nltk.org/) | [Pandas](https://pandas.pydata.org/pandas-docs/stable/index.html) | [Seaborn](https://seaborn.pydata.org/) | [Docker](https://docker.com/) |
 | ------------------------ | ----------------------- | ----------------------- | ----------------------- | ----------------------- | ----------------------- |
@@ -65,38 +64,6 @@ Paso 4: Modelo de Recomendación
 | [Google Cloud](https://cloud.google.com/storage/docs?hl=es-419) | [Power BI](https://docs.microsoft.com/en-us/power-bi/) | [Trello](https://trello.com/) | [StreamLit](https://docs.streamlit.io/) | [AirFlow](https://airflow.apache.org/docs/) | [BigQuery](https://cloud.google.com/bigquery/docs?hl=es-419) |
 | ----------------------- | ----------------------- | ----------------------- | ----------------------- | ----------------------- | ----------------------- |
 | <img src="Images/logos/google_cloud.png" alt="Google Cloud Logo" width="100" align="center"> | <img src="Images/logos/powerbi.png" alt="Power BI Logo" width="100" align="center"> | <img src="Images/logos/trello.png" alt="Trello Logo" width="100" align="center"> | <img src="Images/logos/streamlit.png" alt="StreamLit Logo" width="100" align="center"> | <img src="Images/logos/airflow.png" alt="AirFlow Logo" width="100" align="center"> | <img src="Images/logos/bigquery.png" alt="BigQuery Logo" width="100" align="center"> |
-## Tools and Platforms
-
-<table>
-  <tr>
-    <th>Technology</th>
-    <th>Logo</th>
-  </tr>
-  <tr>
-    <td>Google Cloud</td>
-    <td><img src="/Images/logos/google_cloud.png" alt="Google Cloud Logo" width="50"/></td>
-  </tr>
-  <tr>
-    <td>Power BI</td>
-    <td><img src="/Images/logos/powerbi.png" alt="Power BI Logo" width="50"/></td>
-  </tr>
-  <tr>
-    <td>Trello</td>
-    <td><img src="/Images/logos/trello.png" alt="Trello Logo" width="50"/></td>
-  </tr>
-  <tr>
-    <td>StreamLit</td>
-    <td><img src="/Images/logos/streamlit.png" alt="StreamLit Logo" width="50"/></td>
-  </tr>
-  <tr>
-    <td>AirFlow</td>
-    <td><img src="/Images/logos/airflow.png" alt="AirFlow Logo" width="50"/></td>
-  </tr>
-  <tr>
-    <td>BigQuery</td>
-    <td><img src="/Images/logos/bigquery.png" alt="BigQuery Logo" width="50"/></td>
-  </tr>
-</table>
 
 ## PipeLine
 [Pipeline Gif](https://github.com/your-username/your-repo-name/blob/main/images/python-logo.png)
