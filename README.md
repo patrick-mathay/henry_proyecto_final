@@ -123,7 +123,7 @@ Explora el modelo
   <tr>
     <td align="center"><img src="/Images/fotos_equipo/nacho.png" alt="nacho" width="100"/></td>
     <td align="center"><img src="Images/fotos_equipo/jorge.jpeg" alt="jorge" width="100"/></td>
-    <td align="center"><img src="Images/fotos_equipo/alex.jpg" alt="alex" width="100"/></td>
+    <td align="center"><img src="Images/fotos_equipo/alex.jpg" alt="alex" style="border-radius: 50%; width: 100px; height: 100px;" width="100"/></td>
     <td align="center"><img src="Images/fotos_equipo/sofi.png" alt="sofi" width="100"/></td>
     <td align="center"><img src="Images/fotos_equipo/patrick.jpeg" alt="patrick" width="100"/></td>
   </tr>
