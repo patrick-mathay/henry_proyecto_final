@@ -32,15 +32,36 @@ El objetivo principal de este proyecto es simular una firma de consultoría empr
 
 [FLORIDA]
 
-Guía paso a paso
+## Guía Paso a Paso
 
-Paso 1: ETL (Extracción, Transformación y Carga)
+*Paso 1: ETL (Extracción, Transformación y Carga)*
 
-Paso 2: Análisis Exploratorio de Datos (EDA)
+Se recopilan datos relevantes sobre restaurantes, reseñas y otras métricas clave utilizando los conjuntos de datos proporcionados por Google Maps y Yelp.
 
-Paso 3: Panel de control
 
-Paso 4: Modelo de Recomendación
+Para revisar el ETL, puedes hacer clic en este enlace y ver el análisis del modelo ETL.
+
+
+*Paso 2: Análisis Exploratorio de Datos (EDA)*
+
+En esta etapa, se exploran y analizan los datos para comprender mejor las tendencias y patrones.
+
+
+Para revisar el EDA, puedes hacer clic en este enlace y ver el análisis del modelo EDA.
+
+
+*Paso 3: Dashboard*
+
+Construir un dashboard que presente un análisis completo de los datos y la evolución de los indicadores clave de rendimiento (KPIs) definidos por el cliente.
+
+
+*Paso 4: Modelo de Recomendación*
+
+Finalmente, construir un modelo de recomendación para proporcionar a nuestro cliente una lista de restaurantes comparables a los suyos.
+
+
+Este proyecto tiene como objetivo proporcionar a nuestro cliente información valiosa para la toma de decisiones estratégicas y una comprensión más profunda del mercado local de restaurantes.
+
 
 ## KPI
 
