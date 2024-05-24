@@ -57,18 +57,23 @@ Paso 4: Modelo de Recomendación
 ## Tecnologías Seleccionadas
 
 
+
 | [Python](https://www.python.org/doc/) | [Matplotlib](https://matplotlib.org/stable/contents.html) | [NLTK](https://www.nltk.org/) | [Pandas](https://pandas.pydata.org/pandas-docs/stable/index.html) | [Seaborn](https://seaborn.pydata.org/) | [Docker](https://docker.com/) |
 | ------------------------ | ----------------------- | ----------------------- | ----------------------- | ----------------------- | ----------------------- |
-| <img src="Images/logos/python.png" alt="Python Logo" width="100"> | <img src="Images/logos/matplotlib.png" alt="Matplotlib Logo" width="100"> | <img src="Images/logos/NLTK.png" alt="NLTK Logo" width="100"> | <img src="Images/logos/pandas.png" alt="Pandas Logo" width="100"> | <img src="Images/logos/seaborn.png" alt="Seaborn Logo" width="100"> | <img src="Images/logos/surprise.png" alt="Surprise Logo" width="100"> |
+| <img src="Images/logos/python.png" alt="Python Logo" width="100"> | <img src="Images/logos/matplotlib.png" alt="Matplotlib Logo" width="100"> | <img src="Images/logos/NLTK.png" alt="NLTK Logo" width="100"> | <img src="Images/logos/pandas.png" alt="Pandas Logo" width="100"> | <img src="Images/logos/seaborn.png" alt="Seaborn Logo" width="100"> | <img src="Images/logos/docker.png" alt="Surprise Logo" width="100"> |
 
 | [Google Cloud](https://cloud.google.com/storage/docs?hl=es-419) | [Power BI](https://docs.microsoft.com/en-us/power-bi/) | [Trello](https://trello.com/) | [StreamLit](https://docs.streamlit.io/) | [AirFlow](https://airflow.apache.org/docs/) | [BigQuery](https://cloud.google.com/bigquery/docs?hl=es-419) |
 | ----------------------- | ----------------------- | ----------------------- | ----------------------- | ----------------------- | ----------------------- |
 | <img src="Images/logos/google_cloud.png" alt="Google Cloud Logo" width="100" align="center"> | <img src="Images/logos/powerbi.png" alt="Power BI Logo" width="100" align="center"> | <img src="Images/logos/trello.png" alt="Trello Logo" width="100" align="center"> | <img src="Images/logos/streamlit.png" alt="StreamLit Logo" width="100" align="center"> | <img src="Images/logos/airflow.png" alt="AirFlow Logo" width="100" align="center"> | <img src="Images/logos/bigquery.png" alt="BigQuery Logo" width="100" align="center"> |
 
+
+
 ## PipeLine
 [Pipeline Gif](https://github.com/your-username/your-repo-name/blob/main/images/python-logo.png)
+
 ## Cronología
-[Gantt](https://github.com/your-username/your-repo-name/blob/main/images/python-logo.png)
+![Gantt](/Images/Gantt.png)
+
 ## Dashboard de Análisis
 Propósito
 El propósito principal de este Dashboard es proporcionar información clave del negocio de restaurantes en Florida, mostrando al mismo tiempo la competencia y las especializaciones en cada ubicación.
@@ -114,24 +119,24 @@ Explora el modelo
     <td align="center"><b>Patrick Mathay</b></td>
   </tr>
   <tr>
-    <td align="center"><img src="Images/Maxi.JPG" alt="Maxi" width="100"/></td>
-    <td align="center"><img src="Images/Seba.JPG" alt="Sebastian" width="100"/></td>
-    <td align="center"><img src="Images/Nico.JPG" alt="Nico" width="100"/></td>
-    <td align="center"><img src="Images/Lucero.JPG" alt="Lucero" width="100"/></td>
-    <td align="center"><img src="Images/Pedro.JPG" alt="Pedro" width="100"/></td>
+    <td align="center"><img src="/Images/fotos_equipo/nacho.png" alt="nacho" width="100"/></td>
+    <td align="center"><img src="Images/fotos_equipo/jorge.jpeg" alt="jorge" width="100"/></td>
+    <td align="center"><img src="Images/fotos_equipo/alex.jpg" alt="alex" width="100"/></td>
+    <td align="center"><img src="Images/fotos_equipo/sofi.png" alt="sofi" width="100"/></td>
+    <td align="center"><img src="Images/fotos_equipo/patrick.jpeg" alt="patrick" width="100"/></td>
   </tr>
   <tr>
     <td align="center">Data Engineer</td>
     <td align="center">ML Ops Engineer</td>
     <td align="center">Data Analyst</td>
-    <td align="center">Data Visualization</td>
+    <td align="center">Data Visualization Analyst</td>
     <td align="center">Data Engineer</td>
   </tr>
   <tr>
-    <td align="center"><a href="https://www.linkedin.com/in/arceignacio/"><img src="Images/lkd.png" alt="LinkedIn" width="40"/></a></td>
-    <td align="center"><a href="https://www.linkedin.com/in/jscr/"><img src="Images/lkd.png" alt="LinkedIn" width="40"/></a></td>
-    <td align="center"><a href="https://www.linkedin.com"><img src="Images/lkd.png" alt="LinkedIn" width="40"/></a></td>
-    <td align="center"><a href="https://www.linkedin.com/in/sofiajacky/"><img src="Images/lkd.png" alt="LinkedIn" width="40"/></a></td>
-    <td align="center"><a href="https://www.linkedin.com/in/patrickmathay/"><img src="Images/lkd.png" alt="LinkedIn" width="40"/></a></td>
+    <td align="center"><a href="https://www.linkedin.com/in/arceignacio/"><img src="/Images/lkd.png" alt="LinkedIn" width="40"/></a></td>
+    <td align="center"><a href="https://www.linkedin.com/in/jscr/"><img src="/Images/lkd.png" alt="LinkedIn" width="40"/></a></td>
+    <td align="center"><a href="https://www.linkedin.com"><img src="/Images/lkd.png" alt="LinkedIn" width="40"/></a></td>
+    <td align="center"><a href="https://www.linkedin.com/in/sofiajacky/"><img src="/Images/lkd.png" alt="LinkedIn" width="40"/></a></td>
+    <td align="center"><a href="https://www.linkedin.com/in/patrickmathay/"><img src="/Images/lkd.png" alt="LinkedIn" width="40"/></a></td>
   </tr>
 </table>
