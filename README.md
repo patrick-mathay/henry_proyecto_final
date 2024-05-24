@@ -3,22 +3,22 @@
 </p>!
 
 *** 
-# Proyecto de Análisis y Consultoría para Inversión Gastrónomica
+# <p align="center">Proyecto de Análisis y Consultoría para Inversión Gastrónomica</p>
 
 ## Índice
 
 <details>
   <summary>Tabla de contenido</summary>
 
-  1. [Índice](##Índice)
-  2. [Sobre el proyecto](##Sobre-el-proyecto)
-  3. [KPI](##KPI)
-  4. [Tecnologías Seleccionadas](##Tecnologías-Seleccionadas)
-  5. [PipeLine](##PipeLine)
-  6. [Cronología](##Cronología)
-  7. [Dashboard de Análisis](##Dashboard-de-Análisis)
-  8. [Sistema de Recomendación](##Sistema-de-Recomendación)
-  9. [Miembros del Equipo](##Miembros-del-Equipo)
+  1. [Índice](#índice)
+  2. [Sobre el proyecto](#sobre-el-proyecto)
+  3. [KPI](#kpi)
+  4. [Tecnologías Seleccionadas](#tecnologías-seleccionadas)
+  5. [PipeLine](#pipeline)
+  6. [Cronología](#cronología)
+  7. [Dashboard de Análisis](#dashboard-de-análisis)
+  8. [Sistema de Recomendación](#sistema-de-recomendación)
+  9. [Miembros del Equipo](#miembros-del-equipo)
 
 </details>
 
