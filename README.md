@@ -72,7 +72,7 @@ Paso 4: Modelo de Recomendación
 
 
 ## PipeLine
-![Pipeline Gif](https://github.com/your-username/your-repo-name/blob/main/images/python-logo.png)
+![Pipeline Gif](Images\pipeline.jpg)
 
 ## Cronología
 ![Gantt](/Images/Gantt.png)
