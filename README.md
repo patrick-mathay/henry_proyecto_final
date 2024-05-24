@@ -74,27 +74,27 @@ Paso 4: Modelo de Recomendación
   </tr>
   <tr>
     <td>Google Cloud</td>
-    <td><img src="URL_TO_GOOGLE_CLOUD_LOGO" alt="Google Cloud Logo" width="50"/></td>
+    <td><img src="/Images/logos/google_cloud.png" alt="Google Cloud Logo" width="50"/></td>
   </tr>
   <tr>
     <td>Power BI</td>
-    <td><img src="URL_TO_POWER_BI_LOGO" alt="Power BI Logo" width="50"/></td>
+    <td><img src="/Images/logos/powerbi.png" alt="Power BI Logo" width="50"/></td>
   </tr>
   <tr>
     <td>Trello</td>
-    <td><img src="URL_TO_TRELLO_LOGO" alt="Trello Logo" width="50"/></td>
+    <td><img src="/Images/logos/trello.png" alt="Trello Logo" width="50"/></td>
   </tr>
   <tr>
     <td>StreamLit</td>
-    <td><img src="URL_TO_STREAMLIT_LOGO" alt="StreamLit Logo" width="50"/></td>
+    <td><img src="/Images/logos/streamlit.png" alt="StreamLit Logo" width="50"/></td>
   </tr>
   <tr>
     <td>AirFlow</td>
-    <td><img src="URL_TO_AIRFLOW_LOGO" alt="AirFlow Logo" width="50"/></td>
+    <td><img src="/Images/logos/airflow.png" alt="AirFlow Logo" width="50"/></td>
   </tr>
   <tr>
     <td>BigQuery</td>
-    <td><img src="URL_TO_BIGQUERY_LOGO" alt="BigQuery Logo" width="50"/></td>
+    <td><img src="/Images/logos/bigquery.png" alt="BigQuery Logo" width="50"/></td>
   </tr>
 </table>
 
