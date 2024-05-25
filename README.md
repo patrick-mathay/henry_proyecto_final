@@ -36,7 +36,7 @@ El objetivo principal de este proyecto es simular una firma de consultoría empr
 
 ## Guía Paso a Paso
 
-*Paso 1: ETL (Extracción, Transformación y Carga)*
+*_Paso 1: ETL (Extracción, Transformación y Carga)_*
 
 Se recopilan datos relevantes sobre restaurantes, reseñas y otras métricas clave utilizando los conjuntos de datos proporcionados por Google Maps y Yelp.
 
@@ -44,7 +44,7 @@ Se recopilan datos relevantes sobre restaurantes, reseñas y otras métricas cla
 Para revisar el ETL, puedes hacer clic en este enlace y ver el análisis del modelo ETL.
 
 
-*Paso 2: Análisis Exploratorio de Datos (EDA)*
+*_Paso 2: Análisis Exploratorio de Datos (EDA)_*
 
 En esta etapa, se exploran y analizan los datos para comprender mejor las tendencias y patrones.
 
@@ -52,12 +52,12 @@ En esta etapa, se exploran y analizan los datos para comprender mejor las tenden
 Para revisar el EDA, puedes hacer clic en este enlace y ver el análisis del modelo EDA.
 
 
-*Paso 3: Dashboard*
+*_Paso 3: Dashboard_*
 
 Construir un dashboard que presente un análisis completo de los datos y la evolución de los indicadores clave de rendimiento (KPIs) definidos por el cliente.
 
 
-*Paso 4: Modelo de Recomendación*
+*_Paso 4: Modelo de Recomendación_*
 
 Finalmente, construir un modelo de recomendación para proporcionar a nuestro cliente una lista de restaurantes comparables a los suyos.
 
@@ -67,19 +67,19 @@ Este proyecto tiene como objetivo proporcionar a nuestro cliente información va
 
 ## KPI
 
-Expansión del negocio
+__Expansión del negocio__
 
 1. Crecimiento del 5% en la cantidad de locales
   - Definición: Crecimiento anual de la cantidad de sucursales. Esto proporciona una métrica clara y cuantificable que refleja la expansión y vitalidad del negocio.
   - Objetivo: +5%
 
-Incremento de la visibilidad y engagement del cliente
+__Incremento de la visibilidad y engagement del cliente__
 
 2. KPI: Aumento del 5% en la Cantidad de Reseñas
   - Definición: Incrementar la presencia en las plataformas de recomendación, evaluando la satisfacción y el engagement del cliente. Este KPI también ayuda a mejorar la visibilidad y la reputación online, y proporciona información valiosa para mejorar la calidad del servicio.
   - Objetivo: +5%
 
-Expansión de la base de clientes 
+__Expansión de la base de clientes__
 
 3. KPI: Aumento del 10% en la Cantidad de Clientes
   - Definición: Este KPI mide el crecimiento anual en la cantidad de clientes, lo cual refleja la efectividad de las estrategias de marketing y la capacidad del negocio para atraer y retener nuevos clientes. Un aumento del 10% en la cantidad de clientes indica un crecimiento significativo en la base de clientes y mayores oportunidades de ingresos.
@@ -133,14 +133,14 @@ El propósito principal de este Dashboard es proporcionar información clave del
 ## Sistema de Recomendación
 El sistema de recomendación se basa en dos sistemas vinculados al usuario:
 
-*Identifica a tus usuarios*
+*_Identifica a tus usuarios_*
 
 Utiliza un modelo de aprendizaje automático 'recommendation_model' 
 Diseñado para proporcionar recomendaciones personalizadas en el sector gastronómico
   - Utilizando datos históricos de clientes y establecimientos, el modelo predice las preferencias individuales de los usuarios y genera recomendaciones adaptadas a sus gustos y comportamientos pasados. 
   - Esto mejora la experiencia del cliente, aumenta la fidelización, incrementa las ventas y optimiza los recursos del conglomerado gastronómico, mejorando su competitividad en el mercado.
 
-*Identifica a tu competencia*
+*_Identifica a tu competencia_*
 
 Este modelo de aprendizaje automático 'business_comp_model'
   - Utiliza características como ubicación, calificación promedio y cantidad de reseñas para determinar la presencia de competidores en el sector gastronómico. 
