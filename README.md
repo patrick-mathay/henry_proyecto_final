@@ -1,6 +1,6 @@
 <p align="center">
   <img src="/Images/datagusto_logo.jpg" alt="Logo" />
-</p>!
+</p>
 
 *** 
 # <p align="center">Proyecto de Análisis y Consultoría para Inversión Gastrónomica</p>
@@ -32,7 +32,7 @@ El objetivo principal de este proyecto es simular una firma de consultoría empr
 
 <p align="center">
   <img src="/Images/florida.png" alt="Logo" />
-</p>!
+</p>
 
 ## Guía Paso a Paso
 
