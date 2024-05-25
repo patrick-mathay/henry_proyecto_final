@@ -17,13 +17,16 @@ Este documento detalla el proceso de ingeniería de datos para nuestro proyecto,
 </details>
 
 ## Alcance del proyecto ##
-Para determinar el alcance del proyecto, utilizamos técnicas de análisis de datos y [búsquedas dentro del United States Census Bureau](https://www.census.gov/newsroom/press-releases/2023/population-trends-return-to-pre-pandemic-norms.html) con el objetivo de encontrar el estado con mayor crecimiento post pandemia en el que  se centrará nuestro proyecto. 
+Para determinar el alcance del proyecto, utilizamos técnicas de análisis de datos y [búsquedas dentro del United States Census Bureau](https://www.census.gov/newsroom/press-releases/2023/population-trends-return-to-pre-pandemic-norms.html) con el objetivo de encontrar el estado con mayor crecimiento post pandemia en el que  se centrará nuestro proyecto.
+
 El motivo de esta decisión es enfocarnos en el mercado con mayor oportunidad para inversión en la industria gastronómica. 
 
 ## Procesamiento de datos ##
 __Datos de Google y Yelp__
 
-Nuestras fuentes de datos iniciales fueron archivos JSON de Google y Yelp, que requirieron un análisis y una limpieza exhaustivos para garantizar la compatibilidad para futuros análisis de datos exploratorios (EDA). Este proceso dio como resultado cuatro tablas principales: “datagusto_restaurantess”, “datagusto_yelp”, “datagusto_reviews_union”y “datagusto_business_id”. Estas tablas se integraron posteriormente en BigQuery. Los procesos ETL para cada fuente se documentan a continuación: [ETL Google](https://github.com/patrick-mathay/henry_proyecto_final/tree/master/Data%20Enginering/ETL%20Google), [ETL Yelp](https://github.com/patrick-mathay/henry_proyecto_final/tree/master/Data%20Enginering/ETL%20Yelp), [ETL Unificacion](https://github.com/patrick-mathay/henry_proyecto_final/tree/master/Data%20Enginering/ETL%20Unificacion).
+Nuestras fuentes de datos iniciales fueron archivos JSON de Google y Yelp, que requirieron un análisis y una limpieza exhaustivos para garantizar la compatibilidad para futuros análisis de datos exploratorios (EDA). Este proceso dio como resultado cuatro tablas principales: “datagusto_restaurantess”, “datagusto_yelp”, “datagusto_reviews_union”y “datagusto_business_id”. 
+
+Estas tablas se integraron posteriormente en BigQuery. Los procesos ETL para cada fuente se documentan a continuación: [ETL Google](https://github.com/patrick-mathay/henry_proyecto_final/tree/master/Data%20Enginering/ETL%20Google), [ETL Yelp](https://github.com/patrick-mathay/henry_proyecto_final/tree/master/Data%20Enginering/ETL%20Yelp), [ETL Unificacion](https://github.com/patrick-mathay/henry_proyecto_final/tree/master/Data%20Enginering/ETL%20Unificacion).
 
 
 __Unificación de datos__
