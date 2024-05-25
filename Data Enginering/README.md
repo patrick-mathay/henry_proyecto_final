@@ -1,12 +1,17 @@
 # <p align="center">Ingeniería de datos</p>
 
+<p align="center">
+  <img src="/Images/cloud.png" alt="Cloud" />
+</p>
+
 Este documento detalla el proceso de ingeniería de datos para nuestro proyecto, abarcando la definición del alcance, el procesamiento de datos y la construcción de la canalización de datos.
+
 <details>
   <summary>Tabla de contenido</summary>
 
   1. [Alcance del proyecto](#alcance-del-proyecto)
   2. [Procesamiento de datos](#procesamiento-de-datos)
-  3. [Visualización de datos y diccionarios](#visualizacion-de-datos-y-diccionarios)
+  3. [Visualización de datos y diccionarios](#visualización-de-datos-y-diccionarios)
   4. [Pipeline](#pipeline)
 
 </details>
