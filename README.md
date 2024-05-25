@@ -35,16 +35,15 @@ El objetivo principal de este proyecto es simular una firma de consultoría empr
 </p>
 
 ## Guía Paso a Paso
-
-*_Paso 1: ETL (Extracción, Transformación y Carga)_*
+<details>
+<summary>*__Paso 1: ETL (Extracción, Transformación y Carga)__*</summary>
 
 Se recopilan datos relevantes sobre restaurantes, reseñas y otras métricas clave utilizando los conjuntos de datos proporcionados por Google Maps y Yelp.
 
-
 Para revisar el ETL, puedes hacer clic en este enlace y ver el análisis del modelo ETL.
+</details>
 
-
-*_Paso 2: Análisis Exploratorio de Datos (EDA)_*
+*__Paso 2: Análisis Exploratorio de Datos (EDA)__*
 
 En esta etapa, se exploran y analizan los datos para comprender mejor las tendencias y patrones.
 
@@ -52,12 +51,12 @@ En esta etapa, se exploran y analizan los datos para comprender mejor las tenden
 Para revisar el EDA, puedes hacer clic en este enlace y ver el análisis del modelo EDA.
 
 
-*_Paso 3: Dashboard_*
+*__Paso 3: Dashboard__*
 
 Construir un dashboard que presente un análisis completo de los datos y la evolución de los indicadores clave de rendimiento (KPIs) definidos por el cliente.
 
 
-*_Paso 4: Modelo de Recomendación_*
+*__Paso 4: Modelo de Recomendación__*
 
 Finalmente, construir un modelo de recomendación para proporcionar a nuestro cliente una lista de restaurantes comparables a los suyos.
 
@@ -67,23 +66,23 @@ Este proyecto tiene como objetivo proporcionar a nuestro cliente información va
 
 ## KPI
 
-__Expansión del negocio__
+__1. Expansión del negocio__
 
-1. Crecimiento del 5% en la cantidad de locales
-  - Definición: Crecimiento anual de la cantidad de sucursales. Esto proporciona una métrica clara y cuantificable que refleja la expansión y vitalidad del negocio.
-  - Objetivo: +5%
+  - *KPI:* Crecimiento del 5% en la cantidad de locales
+  - *Definición:* Crecimiento anual de la cantidad de sucursales. Esto proporciona una métrica clara y cuantificable que refleja la expansión y vitalidad del negocio.
+  - *Objetivo:* +5%
 
-__Incremento de la visibilidad y engagement del cliente__
+__2. Incremento de la visibilidad y engagement del cliente__
 
-2. KPI: Aumento del 5% en la Cantidad de Reseñas
-  - Definición: Incrementar la presencia en las plataformas de recomendación, evaluando la satisfacción y el engagement del cliente. Este KPI también ayuda a mejorar la visibilidad y la reputación online, y proporciona información valiosa para mejorar la calidad del servicio.
-  - Objetivo: +5%
+  - *KPI:* Aumento del 5% en la Cantidad de Reseñas
+  - *Definición:* Incrementar la presencia en las plataformas de recomendación, evaluando la satisfacción y el engagement del cliente. Este KPI también ayuda a mejorar la visibilidad y la reputación online, y proporciona información valiosa para mejorar la calidad del servicio.
+  - *Objetivo:* +5%
 
-__Expansión de la base de clientes__
+__3. Expansión de la base de clientes__
 
-3. KPI: Aumento del 10% en la Cantidad de Clientes
-  - Definición: Este KPI mide el crecimiento anual en la cantidad de clientes, lo cual refleja la efectividad de las estrategias de marketing y la capacidad del negocio para atraer y retener nuevos clientes. Un aumento del 10% en la cantidad de clientes indica un crecimiento significativo en la base de clientes y mayores oportunidades de ingresos.
-  - Objetivo: +10%
+  - *KPI:* Aumento del 10% en la Cantidad de Clientes
+  - *Definición:* Este KPI mide el crecimiento anual en la cantidad de clientes, lo cual refleja la efectividad de las estrategias de marketing y la capacidad del negocio para atraer y retener nuevos clientes. Un aumento del 10% en la cantidad de clientes indica un crecimiento significativo en la base de clientes y mayores oportunidades de ingresos.
+  - *Objetivo:* +10%
 
 
 ## Tecnologías Seleccionadas
