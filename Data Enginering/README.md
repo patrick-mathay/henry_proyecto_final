@@ -6,10 +6,8 @@ Este documento detalla el proceso de ingeniería de datos para nuestro proyecto,
 
   1. [Alcance del proyecto](#alcance-del-proyecto)
   2. [Procesamiento de datos](#procesamiento-de-datos)
-  3. [Datos de Google y Yelp](#datos-de-google-y-yelp)
-  4. [Unificación de datos](#unificacion-de-datos)
-  5. [Visualización de datos y diccionarios](#visualizacion-de-datos-y-diccionarios)
-  6. [Tubería](#tuberia)
+  3. [Visualización de datos y diccionarios](#visualizacion-de-datos-y-diccionarios)
+  4. [Tubería](#tuberia)
 
 </details>
 
@@ -19,12 +17,15 @@ El motivo de esta decisión es enfocarnos en el mercado con mayor oportunidad pa
 
 ## Procesamiento de datos ##
 __Datos de Google y Yelp__
+
 Nuestras fuentes de datos iniciales fueron archivos JSON de Google y Yelp, que requirieron un análisis y una limpieza exhaustivos para garantizar la compatibilidad para futuros análisis de datos exploratorios (EDA). Este proceso dio como resultado cuatro tablas principales: “datagusto_restaurantess”, “datagusto_yelp”, “datagusto_reviews_union”y “datagusto_business_id”. Estas tablas se integraron posteriormente en BigQuery. Los procesos ETL para cada fuente se documentan a continuación: [ETL Google](https://github.com/patrick-mathay/henry_proyecto_final/tree/master/Data%20Enginering/ETL%20Google), [ETL Yelp](https://github.com/patrick-mathay/henry_proyecto_final/tree/master/Data%20Enginering/ETL%20Yelp), [ETL Unificacion](https://github.com/patrick-mathay/henry_proyecto_final/tree/master/Data%20Enginering/ETL%20Unificacion).
 
 __Unificación de datos__
+
 Para facilitar EDA y el desarrollo de productos de aprendizaje automático, fusionamos los conjuntos de datos de Google y Yelp, exclusivamente las reseñas. El conjunto de datos unificado y la documentación del proceso ETL están disponibles aquí: [ETL Unificacion](https://github.com/patrick-mathay/henry_proyecto_final/tree/master/Data%20Enginering/ETL%20Unificacion).
 
 ## Visualización de datos y diccionarios ##
+
 Para comprender mejor las relaciones entre las diferentes entidades en nuestro conjunto de datos, creamos un diagrama de relación entre entidades y bases de datos (DER), que se ilustra a continuación:
 
 <p align="center">
@@ -34,6 +35,7 @@ Para comprender mejor las relaciones entre las diferentes entidades en nuestro c
 Además, preparamos un diccionario de datos completo que detalla cada elemento de datos para los conjuntos de datos de Google y Yelp, al que se puede acceder [aquí](https://github.com/patrick-mathay/henry_proyecto_final/blob/master/Data%20Enginering/Diccionario.pdf).
 
 ## Pipeline ##
+
 Nuestro proceso de datos se ilustra en el siguiente diagrama, que muestra el flujo desde la carga de datos inicial hasta la EDA final y la integración del modelo de aprendizaje automático:
 
 <p align="center">
@@ -41,6 +43,7 @@ Nuestro proceso de datos se ilustra en el siguiente diagrama, que muestra el flu
 </p>
 
 ## Descripción del Proceso de Ingeniería de Datos ##
+
 1. Inicialmente, recibimos datos en bruto provenientes de Google Maps y Google Yelp, complementados con datos adicionales del censo obtenidos del "United States Census Bureau". 
 2. Posteriormente, mediante Visual Studio Code y utilizando un entorno WSL, configuramos la orquestación en Airflow, definiendo los DAGs necesarios y desplegando Airflow con Docker.
 3. En Airflow, los DAGs ejecutan las transformaciones necesarias de los archivos de datos y gestionan la carga de los datos transformados en Google Cloud Storage. Simultáneamente, las tablas resultantes se cargan en Google BigQuery. 
