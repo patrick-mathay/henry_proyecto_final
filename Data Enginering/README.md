@@ -7,7 +7,7 @@ Este documento detalla el proceso de ingeniería de datos para nuestro proyecto,
   1. [Alcance del proyecto](#alcance-del-proyecto)
   2. [Procesamiento de datos](#procesamiento-de-datos)
   3. [Visualización de datos y diccionarios](#visualizacion-de-datos-y-diccionarios)
-  4. [Tubería](#tuberia)
+  4. [Pipeline](#pipeline)
 
 </details>
 
@@ -19,6 +19,7 @@ El motivo de esta decisión es enfocarnos en el mercado con mayor oportunidad pa
 __Datos de Google y Yelp__
 
 Nuestras fuentes de datos iniciales fueron archivos JSON de Google y Yelp, que requirieron un análisis y una limpieza exhaustivos para garantizar la compatibilidad para futuros análisis de datos exploratorios (EDA). Este proceso dio como resultado cuatro tablas principales: “datagusto_restaurantess”, “datagusto_yelp”, “datagusto_reviews_union”y “datagusto_business_id”. Estas tablas se integraron posteriormente en BigQuery. Los procesos ETL para cada fuente se documentan a continuación: [ETL Google](https://github.com/patrick-mathay/henry_proyecto_final/tree/master/Data%20Enginering/ETL%20Google), [ETL Yelp](https://github.com/patrick-mathay/henry_proyecto_final/tree/master/Data%20Enginering/ETL%20Yelp), [ETL Unificacion](https://github.com/patrick-mathay/henry_proyecto_final/tree/master/Data%20Enginering/ETL%20Unificacion).
+
 
 __Unificación de datos__
 
@@ -44,7 +45,7 @@ Nuestro proceso de datos se ilustra en el siguiente diagrama, que muestra el flu
 
 ## Descripción del Proceso de Ingeniería de Datos ##
 
-1. Inicialmente, recibimos datos en bruto provenientes de Google Maps y Google Yelp, complementados con datos adicionales del censo obtenidos del "United States Census Bureau". 
+1. Inicialmente, recibimos datos en bruto provenientes de Google Maps y Google Yelp, complementados con datos adicionales del censo obtenidos del ["United States Census Bureau"](https://www.census.gov/). 
 2. Posteriormente, mediante Visual Studio Code y utilizando un entorno WSL, configuramos la orquestación en Airflow, definiendo los DAGs necesarios y desplegando Airflow con Docker.
 3. En Airflow, los DAGs ejecutan las transformaciones necesarias de los archivos de datos y gestionan la carga de los datos transformados en Google Cloud Storage. Simultáneamente, las tablas resultantes se cargan en Google BigQuery. 
 4. Finalmente, las tablas alojadas en BigQuery se ponen a disposición para ser utilizadas en análisis exploratorio de datos (EDA), machine learning (BigQuery ML) y visualización de datos (Power BI).
