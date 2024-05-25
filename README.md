@@ -48,7 +48,7 @@ Para revisar el ETL, puedes hacer clic en este enlace y ver el análisis del mod
 En esta etapa, se exploran y analizan los datos para comprender mejor las tendencias y patrones.
 
 
-Para revisar el [EDA](https://github.com/patrick-mathay/henry_proyecto_final/blob/master/Data%20Analysis/README.md), puedes hacer clic en este enlace y ver el análisis del modelo EDA.
+Para revisar el EDA, puedes hacer clic en [este enlace](https://github.com/patrick-mathay/henry_proyecto_final/blob/master/Data%20Analysis/README.md) y ver el análisis del modelo EDA.
 
 
 *__Paso 3: Dashboard__*
