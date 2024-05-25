@@ -35,13 +35,13 @@ El objetivo principal de este proyecto es simular una firma de consultoría empr
 </p>
 
 ## Guía Paso a Paso
-<details>
-*__<summary>Paso 1: ETL (Extracción, Transformación y Carga)</summary>__*
+
+*__Paso 1: ETL (Extracción, Transformación y Carga)__*
 
 Se recopilan datos relevantes sobre restaurantes, reseñas y otras métricas clave utilizando los conjuntos de datos proporcionados por Google Maps y Yelp.
 
 Para revisar el ETL, puedes hacer clic en este enlace y ver el análisis del modelo ETL.
-</details>
+
 
 *__Paso 2: Análisis Exploratorio de Datos (EDA)__*
 
@@ -89,13 +89,13 @@ __3. Expansión de la base de clientes__
 
 
 
-| [Python](https://www.python.org/doc/) | [Matplotlib](https://matplotlib.org/stable/contents.html) | [NLTK](https://www.nltk.org/) | [Pandas](https://pandas.pydata.org/pandas-docs/stable/index.html) | [Seaborn](https://seaborn.pydata.org/) | [Docker](https://docker.com/) |
+| [Python](https://www.python.org/doc/) | [Matplotlib](https://matplotlib.org/stable/contents.html) | [NLTK](https://www.nltk.org/) | [Pandas](https://pandas.pydata.org/pandas-docs/stable/index.html) | [Seaborn](https://seaborn.pydata.org/) | [NumPy](https://numpy.org/) |
 | ------------------------ | ----------------------- | ----------------------- | ----------------------- | ----------------------- | ----------------------- |
-| <img src="Images/logos/python.png" alt="Python Logo" width="100"> | <img src="Images/logos/matplotlib.png" alt="Matplotlib Logo" width="100"> | <img src="Images/logos/NLTK.png" alt="NLTK Logo" width="100"> | <img src="Images/logos/pandas.png" alt="Pandas Logo" width="100"> | <img src="Images/logos/seaborn.png" alt="Seaborn Logo" width="100"> | <img src="Images/logos/docker.png" alt="Surprise Logo" width="100"> |
+| <img src="Images/logos/python.png" alt="Python Logo" width="100"> | <img src="Images/logos/matplotlib.png" alt="Matplotlib Logo" width="100"> | <img src="Images/logos/NLTK.png" alt="NLTK Logo" width="100"> | <img src="Images/logos/pandas.png" alt="Pandas Logo" width="100"> | <img src="Images/logos/seaborn.png" alt="Seaborn Logo" width="100"> | <img src="Images/logos/numpy.png" alt="Surprise Logo" width="100"> |
 
-| [Google Storage](https://cloud.google.com/storage/docs?hl=es-419) | [Power BI](https://docs.microsoft.com/en-us/power-bi/) | [Trello](https://trello.com/) | [StreamLit](https://docs.streamlit.io/) | [AirFlow](https://airflow.apache.org/docs/) | [BigQuery](https://cloud.google.com/bigquery/docs?hl=es-419) |
+| [Google Storage](https://cloud.google.com/storage/docs?hl=es-419) | [Power BI](https://docs.microsoft.com/en-us/power-bi/) | [Docker](https://docker.com/) | [StreamLit](https://docs.streamlit.io/) | [AirFlow](https://airflow.apache.org/docs/) | [BigQuery](https://cloud.google.com/bigquery/docs?hl=es-419) |
 | ----------------------- | ----------------------- | ----------------------- | ----------------------- | ----------------------- | ----------------------- |
-| <img src="Images/logos/cloud_storage.png" alt="Google Storage Logo" width="100" align="center"> | <img src="Images/logos/powerbi.png" alt="Power BI Logo" width="100" align="center"> | <img src="Images/logos/trello.png" alt="Trello Logo" width="100" align="center"> | <img src="Images/logos/streamlit.png" alt="StreamLit Logo" width="100" align="center"> | <img src="Images/logos/airflow.png" alt="AirFlow Logo" width="100" align="center"> | <img src="Images/logos/bigquery.png" alt="BigQuery Logo" width="100" align="center"> |
+| <img src="Images/logos/cloud_storage.png" alt="Google Storage Logo" width="100" align="center"> | <img src="Images/logos/powerbi.png" alt="Power BI Logo" width="100" align="center"> | <img src="Images/logos/docker.png" alt="Trello Logo" width="100" align="center"> | <img src="Images/logos/streamlit.png" alt="StreamLit Logo" width="100" align="center"> | <img src="Images/logos/airflow.png" alt="AirFlow Logo" width="100" align="center"> | <img src="Images/logos/bigquery.png" alt="BigQuery Logo" width="100" align="center"> |
 
 
 
