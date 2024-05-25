@@ -36,7 +36,7 @@ El objetivo principal de este proyecto es simular una firma de consultoría empr
 
 ## Guía Paso a Paso
 <details>
-<summary>*__Paso 1: ETL (Extracción, Transformación y Carga)__*</summary>
+*__<summary>Paso 1: ETL (Extracción, Transformación y Carga)</summary>__*
 
 Se recopilan datos relevantes sobre restaurantes, reseñas y otras métricas clave utilizando los conjuntos de datos proporcionados por Google Maps y Yelp.
 
