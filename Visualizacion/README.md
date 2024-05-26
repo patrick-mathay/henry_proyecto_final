@@ -1,4 +1,9 @@
 ## DATA VISUALIZATION
+
+<p align="center">
+  <img src="/Images/Data-Visualization-Header.jpg" alt="Logo" />
+</p>
+
 Este dashboard ha sido diseñado para proporcionar a los empresarios del sector gastronómico en el estado de Florida una visión integral y detallada del mercado y sus clientes.
 
 # Sección 1: Análisis del Mercado
