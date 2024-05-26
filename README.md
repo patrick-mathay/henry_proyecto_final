@@ -40,7 +40,7 @@ El objetivo principal de este proyecto es simular una firma de consultoría empr
 
 Se recopilan datos relevantes sobre restaurantes, reseñas y otras métricas clave utilizando los conjuntos de datos proporcionados por Google Maps y Yelp.
 
-Para revisar el ETL, puedes hacer clic en este enlace y ver el análisis del modelo ETL.
+Para revisar el ETL, puedes hacer clic en [este enlace](https://github.com/patrick-mathay/henry_proyecto_final/tree/master/Data%20Enginering) y ver el análisis del modelo ETL.
 
 
 *__Paso 2: Análisis Exploratorio de Datos (EDA)__*
@@ -55,6 +55,7 @@ Para revisar el EDA, puedes hacer clic en [este enlace](https://github.com/patri
 
 Construir un dashboard que presente un análisis completo de los datos y la evolución de los indicadores clave de rendimiento (KPIs) definidos por el cliente.
 
+Para revisar el Dashboard, puedes hacer clic en [este enlace](https://github.com/patrick-mathay/henry_proyecto_final/blob/master/Visualizacion/README.md).
 
 *__Paso 4: Modelo de Recomendación__*
 
@@ -62,6 +63,8 @@ Finalmente, construir un modelo de recomendación para proporcionar a nuestro cl
 
 
 Este proyecto tiene como objetivo proporcionar a nuestro cliente información valiosa para la toma de decisiones estratégicas y una comprensión más profunda del mercado local de restaurantes.
+
+Para obtener más información sobre los modelos de Machine Learning, puedes hacer clic en [este enlace](https://github.com/patrick-mathay/henry_proyecto_final/blob/master/Machine%20Learning/README.md).
 
 
 ## KPI
