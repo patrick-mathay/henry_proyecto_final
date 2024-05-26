@@ -150,7 +150,7 @@ Este modelo de aprendizaje automático 'business_comp_model'
   - Ofreciendo un análisis competitivo, identificación de oportunidades y mejora de la eficiencia operativa para conglomerados gastronómicos, brindando una poderosa herramienta para comprender el entorno competitivo y tomar decisiones estratégicas informadas.
 
 <p align="center">
-  <img src="/Machine Learning/modelo_recomendacion_competencia.jpg" alt="Logo" />
+  <img src="/Machine Learning/modelo_prediccion_competencia.jpg" alt="Logo" />
 </p>
 
 Explora el modelo
